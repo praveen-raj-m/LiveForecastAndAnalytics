@@ -2,9 +2,21 @@
 
 ## Overview
 
-Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold a rich narrative within the sales dataset, offering strategic insights and revealing nuanced patterns. In the first dashboard, the trends of the top-performing states and the bottom states are compared, this shows the areas of improvement in sales. The US map visualization vividly illustrates sales distribution, aiding in the identification of economic strongholds.
 
-Moving to the second dashboard, the seasonal trends in sales are explored, empowering decisions related to inventory and promotions. The overall growth is also visualized. The model's performance is also plotted with the actual data to see the model's performance and reliablity. These insights collectively shape a compelling narrative, emphasizing the power of data visualization in guiding strategic decisions and uncovering hidden stories within the dataset.
+In Wyoming, cozy couches trump high-tech gadgets in sales, while California, New York, and Texas witnessed a flourishing tech sales scene. The holiday season emerged as the pinnacle of annual sales excitement.
+
+Surprisingly, even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions. But wait, there's more to the tale...
+
+Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold my narrative within the sales dataset, offering strategic insights and revealing nuanced patterns. 
+
+When it comes to sales, there are some crucial questions. 
+
+1. What strategies drive the highest revenue? 
+2. Which regions prove to be the most lucrative? 
+3. How does consumer behavior influence purchasing patterns?
+4. How do external factors, such as economic trends or technological advancements, impact the sales landscape and necessitate adaptive strategies for sustained success?
+5. What innovative approaches can be employed to boost overall sales performance?
+6. And, perhaps most importantly, can we **forecast** the sales?
 
 <p align="center">
   <img src="visualizations/pred.gif" alt="">
