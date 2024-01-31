@@ -33,14 +33,14 @@ Here are few significant plots
   <img src="visualizations/Dofsales.png" alt="Top 10 States by Sales" width="400">
 </p>
 
-*First plot shows the number of purchases in each category and the Second plot provides evidence that most of the purchases made are between $0 - $2000*
+*First plot shows the number of purchases in each category and the second plot shows that most of the purchases made are between $0 - $2000*
 
 
   <p align="center">
   <img src="visualizations/trendsindata.png" alt="Top 10 States by Sales">
 </p>
 
-*This plot shows that there is a significant trend observed and we can proceed with Time Series Forecast*
+*This plot provides evidence that there is a significant trend observed and we can proceed with Time Series Forecast*
 
 
 ## Model Training
