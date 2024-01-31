@@ -7,7 +7,7 @@ Every dataset harbors millions of untold stories, waiting to be unraveled and in
 Moving to the second dashboard, the seasonal trends in sales are explored, empowering decisions related to inventory and promotions. The overall growth is also visualized. The model's performance is also plotted with the actual data to see the model's performance and reliablity. These insights collectively shape a compelling narrative, emphasizing the power of data visualization in guiding strategic decisions and uncovering hidden stories within the dataset.
 
 <p align="center">
-  <img src="visualizations/pred.gif" alt="Top 10 States by Sales">
+  <img src="visualizations/pred.gif" alt="">
 </p>
 
 
@@ -29,15 +29,15 @@ Exploratory Data Analysis (EDA) involved visualizations to gain insights into th
 Here are few significant plots
 
 <p align="center">
-  <img src="visualizations/countcategory.png" alt="Top 10 States by Sales" width="400">
-  <img src="visualizations/Dofsales.png" alt="Top 10 States by Sales" width="400">
+  <img src="visualizations/countcategory.png" alt="" width="400">
+  <img src="visualizations/Dofsales.png" alt="" width="400">
 </p>
 
 *First plot shows the number of purchases in each category and the second plot shows that most of the purchases made are between $0 - $2000*
 
 
   <p align="center">
-  <img src="visualizations/trendsindata.png" alt="Top 10 States by Sales">
+  <img src="visualizations/trendsindata.png" alt="">
 </p>
 
 *This plot provides evidence that there is a significant trend observed and we can proceed with Time Series Forecast*
@@ -45,7 +45,7 @@ Here are few significant plots
 
 ## Model Training
 
-The Jupyter Notebook `prophet_modeling.ipynb` guides the model training process, covering loading data, preprocessing, training the Prophet model, and making predictions. The trained model is saved as `prophet_model.pkl`.
+The Jupyter Notebook `Sales_Analytics_MyView.ipynb` guides the model training process, covering loading data, preprocessing, training the Prophet model, and making predictions. The trained model is saved as `prophet_model.pkl`.
 
 ## Loading the Saved Model
 
@@ -73,7 +73,7 @@ This Tableau Storybook provides visual insights into the sales analysis based on
 
 
 <p align="center">
-  <img src="visualizations/dashboard1.png" alt="Top 10 States by Sales">
+  <img src="visualizations/dashboard1.png" alt="">
 </p>
 
 
@@ -93,7 +93,7 @@ In analyzing the top 10 states by sales, it is evident that these high-performin
 *Note: The images here are not interactive, the interactive dashboards can be found here [ Tableau workbook](https://public.tableau.com/views/Salesbook_17062297624770/SalesacrossUS-PraveensVisualization?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)* 
 
 <p align="center">
-  <img src="visualizations/dashboard2.png" alt="Top 10 States by Sales">
+  <img src="visualizations/dashboard2.png" alt="">
 </p>
 
 - Filters by category and segment are available.
