@@ -7,8 +7,6 @@ In Wyoming, cozy couches trump high-tech gadgets in sales, while California, New
 
 Surprisingly, even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions. But wait, there's more to the tale...
 
-Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold my narrative within the sales dataset, offering strategic insights and revealing nuanced patterns. 
-
 When it comes to sales, there are some crucial questions. 
 
 1. What strategies drive the highest revenue? 
@@ -17,6 +15,9 @@ When it comes to sales, there are some crucial questions.
 4. How do external factors, such as economic trends or technological advancements, impact the sales landscape and necessitate adaptive strategies for sustained success?
 5. What innovative approaches can be employed to boost overall sales performance?
 6. And, perhaps most importantly, can we **forecast** the sales?
+
+Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering these questions and offering strategic insights and revealing nuanced patterns. 
+
 
 <p align="center">
   <img src="visualizations/pred.gif" alt="">
