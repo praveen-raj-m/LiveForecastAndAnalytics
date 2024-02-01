@@ -2,22 +2,18 @@
 
 ## Overview
 
-
-In Wyoming, cozy couches trump high-tech gadgets in sales, while California, New York, and Texas witnessed a flourishing tech sales scene. The holiday season emerged as the pinnacle of annual sales excitement.
-
-Surprisingly, even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions. But wait, there's more to the tale...
-
+In this project, I'm analyzing a sales dataset to understand trends and forecast future sales. Steps include data preprocessing, visualization for insights, and building a machine learning model. By exploring sales by region and time, I aim to gain practical experience in data analysis and forecasting, improving my skills in handling real-world data scenarios.
+ 
 When it comes to sales, there are some crucial questions. 
 
 1. What strategies drive the highest revenue? 
 2. Which regions prove to be the most lucrative? 
 3. How does consumer behavior influence purchasing patterns?
-4. How do external factors, such as economic trends or technological advancements, impact the sales landscape and necessitate adaptive strategies for sustained success?
+4. How do external factors, such as economic trends or technological advancements, impact the sales?
 5. What innovative approaches can be employed to boost overall sales performance?
 6. And, perhaps most importantly, can we **forecast** the sales?
 
-Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering these questions offering strategic insights, and revealing nuanced patterns. 
-
+I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering these questions offering strategic insights and revealing nuanced patterns. 
 
 <p align="center">
   <img src="visualizations/pred.gif" alt="">
@@ -28,6 +24,11 @@ Every dataset harbors millions of untold stories, waiting to be unraveled and in
 
 ### Link to the interactive [ Tableau workbook](https://public.tableau.com/views/Salesbook_17062297624770/SalesacrossUS-PraveensVisualization?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
+Data holds many hidden stories.
+
+In Wyoming, furnitures trump the sales, while California, New York, and Texas witnessed a flourishing tech sales scene. The holiday season emerged as the pinnacle of annual sales excitement.
+
+Even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions. But wait, there's more to the tale...
 
 # Lets Begin :)
 
