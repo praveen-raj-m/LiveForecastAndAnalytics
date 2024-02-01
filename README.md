@@ -16,7 +16,7 @@ When it comes to sales, there are some crucial questions.
 5. What innovative approaches can be employed to boost overall sales performance?
 6. And, perhaps most importantly, can we **forecast** the sales?
 
-Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering these questions and offering strategic insights and revealing nuanced patterns. 
+Every dataset harbors millions of untold stories, waiting to be unraveled and interpreted. I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering these questions offering strategic insights, and revealing nuanced patterns. 
 
 
 <p align="center">
