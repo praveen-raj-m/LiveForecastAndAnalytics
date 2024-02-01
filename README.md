@@ -27,11 +27,12 @@ I leveraged tableau dashboards to unfold my narrative within the sales dataset, 
 
 #### **Data holds many hidden stories...**
  
-*"In Wyoming, furnitures trump the sales, while California, New York, and Texas witnessed a flourishing tech sales scene."*
+*"In Wyoming, furniture sales are high, and California, New York, and Texas are thriving in tech sales."*
 
-*"The holiday season emerged as the pinnacle of annual sales excitement."*
+*"The holiday season is the peak time for sales every year."*
 
-*"Even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions."*
+*"The Dakotas, combined, have lower sales in the central and south regions, placing them at the bottom of the sales ladder."*
+
 
 #### But wait, there's more to the tale...
 
