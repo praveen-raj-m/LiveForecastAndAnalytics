@@ -13,7 +13,7 @@ When it comes to sales, there are some crucial questions.
 5. What innovative approaches can be employed to boost overall sales performance?
 6. And, perhaps most importantly, can we **forecast** the sales?
 
-I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering these questions offering strategic insights and revealing nuanced patterns. 
+I leveraged tableau dashboards to unfold my narrative within the sales dataset, answering many questions offering strategic insights and revealing nuanced patterns. 
 
 <p align="center">
   <img src="visualizations/pred.gif" alt="">
