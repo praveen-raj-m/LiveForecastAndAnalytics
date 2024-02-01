@@ -24,11 +24,16 @@ I leveraged tableau dashboards to unfold my narrative within the sales dataset, 
 
 ### Link to the interactive [ Tableau workbook](https://public.tableau.com/views/Salesbook_17062297624770/SalesacrossUS-PraveensVisualization?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Data holds many hidden stories.
 
-In Wyoming, furnitures trump the sales, while California, New York, and Texas witnessed a flourishing tech sales scene. The holiday season emerged as the pinnacle of annual sales excitement.
+#### **Data holds many hidden stories...**
+ 
+*"In Wyoming, furnitures trump the sales, while California, New York, and Texas witnessed a flourishing tech sales scene."*
 
-Even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions. But wait, there's more to the tale...
+*"The holiday season emerged as the pinnacle of annual sales excitement."*
+
+*"Even the combined forces of the Dakotas found themselves at the bottom of the sales ladder in the central and south regions."*
+
+#### But wait, there's more to the tale...
 
 # Lets Begin :)
 
