@@ -118,6 +118,7 @@ In analyzing the top 10 states by sales, it is evident that these high-performin
 
 - Filters by category and segment are available.
 - Model R2 error: 0.996.
+- The red bars indicate there is a large deviation from the actual value.
 
 
 
